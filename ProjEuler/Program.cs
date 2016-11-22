@@ -56,7 +56,6 @@ namespace ProjEuler
 			}
 
 			return sum;
-
 		}
 	}
 
@@ -138,8 +137,6 @@ namespace ProjEuler
 				}
 			}
 		}
-
-
 
 
 	}
